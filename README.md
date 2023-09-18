@@ -1,4 +1,4 @@
-![MasterHead](https://media.istockphoto.com/id/1393082364/vector/woman-in-vr-goggles-coding-application-black-and-white-female-engineers-and-developers.jpg?s=612x612&w=0&k=20&c=oFMDkxG3icuYxVBBfyaL0lcw9EAf4M1TwZy_g9-Wdng=)
+
 <h1 align="center">Hi 👋, I'm Samkelo</h1>
 <h3 align="center">Highly motivated Computer Science and IT graduate with a penchant for all things data, technology and solving problems.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
